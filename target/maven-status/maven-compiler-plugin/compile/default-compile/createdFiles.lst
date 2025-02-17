@@ -1,0 +1,7 @@
+com\anemona\vital_signs_producer\service\VitalSignsService.class
+com\anemona\vital_signs_producer\config\SchedulerConfig.class
+com\anemona\vital_signs_producer\config\KafkaConfig.class
+com\anemona\vital_signs_producer\service\VitalSignsGenerator.class
+com\anemona\vital_signs_producer\config\KafkaTopicConfig.class
+com\anemona\vital_signs_producer\VitalSignsProducerApplication.class
+com\anemona\vital_signs_producer\dto\EstadoVitalDTO.class
